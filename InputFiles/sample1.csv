@@ -1,0 +1,46 @@
+OrderID,OrderDate,Region,Rep,Item,Units,Unit Cost,Total
+1,01-06-2021,East,Jones,Pencil,95,1.99,189.05
+2,1-23-21,Central,Kivell,Binder,50,19.99,999.5
+3,02-09-2021,Central,Jardine,Pencil,36,4.99,179.64
+4,2-26-21,Central,Gill,Pen,27,19.99,539.73
+5,3-15-21,West,Sorvino,Pencil,56,2.99,167.44
+6,04-01-2021,East,Jones,Binder,60,4.99,299.4
+7,4-18-21,Central,Andrews,Pencil,75,1.99,149.25
+8,05-05-2021,Central,Jardine,Pencil,90,4.99,449.1
+9,5-22-21,West,Thompson,Pencil,32,1.99,63.68
+10,06-08-2021,East,Jones,Binder,60,8.99,539.4
+11,6-25-21,Central,Morgan,Pencil,90,4.99,449.1
+12,07-12-2021,East,Howard,Binder,29,1.99,57.71
+13,7-29-21,East,Parent,Binder,81,19.99,"1,619.19"
+14,8-15-21,East,Jones,Pencil,35,4.99,174.65
+15,09-01-2021,Central,Smith,Desk,2,,250
+16,9-18-21,East,Jones,Pen Set,16,15.99,255.84
+17,10-05-2021,Central,Morgan,Binder,28,8.99,251.72
+18,10-22-21,East,Jones,Pen,64,8.99,575.36
+19,11-08-2021,East,Parent,Pen,15,19.99,299.85
+20,11-25-21,Central,Kivell,Pen Set,96,4.99,479.04
+21,12-12-2021,Central,Smith,Pencil,67,1.29,86.43
+22,12-29-21,East,Parent,Pen Set,74,15.99,"1,183.26"
+23,1-15-22,Central,Gill,Binder,46,8.99,413.54
+24,02-01-2022,Central,Smith,Binder,87,15,"1,305.00"
+25,2-18-22,East,Jones,Binder,4,4.99,19.96
+26,03-07-2022,West,Sorvino,Binder,7,19.99,139.93
+27,3-24-22,Central,Jardine,Pen Set,50,null,249.5
+28,04-10-2022,Central,Andrews,Pencil,66,1.99,131.34
+29,4-27-22,East,Howard,Pen,96,4.99,479.04
+30,5-14-22,Central,Gill,Pencil,53,1.29,68.37
+31,5-31-22,Central,Gill,Binder,80,8.99,719.2
+32,6-17-22,Central,Kivell,Desk,5,125,625
+33,07-04-2022,East,Jones,Pen Set,62,4.99,309.38
+34,7-21-22,Central,Morgan,Pen Set,55,12.49,686.95
+35,08-07-2022,Central,Kivell,Pen Set,42,23.95,"1,005.90"
+36,8-24-22,West,Sorvino,Desk,3,275,825
+37,09-10-2022,Central,Gill,Pencil,7,1.29,9.03
+38,9-27-22,West,Sorvino,Pen,76,1.99,151.24
+39,10-14-22,West,Thompson,Binder,57,19.99,"1,139.43"
+40,10-31-22,Central,Andrews,Pencil,14,1.29,18.06
+41,11-17-22,Central,Jardine,Binder,11,4.99,54.89
+42,12-04-2022,Central,Jardine,Binder,94,19.99,"1,879.06"
+43,12-21-22,Central,Andrews,Binder,28,4.99,139.72
+44,02-09-2021,Central,Jardine,Pencil,36,4.99,179.64
+45,5-22-21,West,Thompson,Pencil,32,1.99,63.68
